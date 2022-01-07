@@ -13,7 +13,7 @@ Data preparation is made by the *run_analysis.R* script in the following steps:
 
 #1.Download the dataset
 Dataset downloaded and extracted under the folder called UCI HAR Dataset
-
+ 
 #2.Assign each data to variables. 
 Information about the data and variables can be found in the README file of the dataset. 
 
