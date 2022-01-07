@@ -18,3 +18,8 @@ It extracts the measurements on the mean and standard deviation for each measure
 It renames code with the Uses descriptive activity names to name the activities in the data set
 
 It renames labels to something that is more easy to understand. 
+
+It makes a new data set from the previous made data set showing the average of each activity, variable and subject. 
+
+**FinalData.txt** which is a text file that shows the final data after having gone through the process as described in the
+run_analysis.R script.
